@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import inquirer from "inquirer"
 let to_do_list = [];
 let condition = true;
